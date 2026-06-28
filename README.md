@@ -12,7 +12,6 @@ The scheduler manages employee preferences for morning, afternoon, and evening s
 - `scheduler.py` - Python source file
 - `scheduler.cpp` - C++ source file
 - `final_schedule.png` - Screenshot of sample schedule output
-- `Employee_Schedule_Submission.docx` - Submission document including project summary and schedule output
 - `.gitignore` - Ignore compiled binary and temporary output
 
 ## Run the Python scheduler
